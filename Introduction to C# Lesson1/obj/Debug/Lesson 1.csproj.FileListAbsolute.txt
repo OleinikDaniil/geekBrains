@@ -1,0 +1,14 @@
+C:\Users\ПК\Desktop\geekBrains\Introduction to C# Lesson1\Lesson 1\Lesson 1\bin\Debug\Lesson 1.exe.config
+C:\Users\ПК\Desktop\geekBrains\Introduction to C# Lesson1\Lesson 1\Lesson 1\bin\Debug\Lesson 1.exe
+C:\Users\ПК\Desktop\geekBrains\Introduction to C# Lesson1\Lesson 1\Lesson 1\bin\Debug\Lesson 1.pdb
+C:\Users\ПК\Desktop\geekBrains\Introduction to C# Lesson1\Lesson 1\Lesson 1\obj\Debug\Lesson 1.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\geekBrains\Introduction to C# Lesson1\Lesson 1\Lesson 1\obj\Debug\Lesson 1.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\geekBrains\Introduction to C# Lesson1\Lesson 1\Lesson 1\obj\Debug\Lesson 1.exe
+C:\Users\ПК\Desktop\geekBrains\Introduction to C# Lesson1\Lesson 1\Lesson 1\obj\Debug\Lesson 1.pdb
+C:\Users\ПК\Desktop\geekBrains\Introduction to C# Lesson1\bin\Debug\Lesson 1.exe.config
+C:\Users\ПК\Desktop\geekBrains\Introduction to C# Lesson1\bin\Debug\Lesson 1.exe
+C:\Users\ПК\Desktop\geekBrains\Introduction to C# Lesson1\bin\Debug\Lesson 1.pdb
+C:\Users\ПК\Desktop\geekBrains\Introduction to C# Lesson1\obj\Debug\Lesson 1.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\geekBrains\Introduction to C# Lesson1\obj\Debug\Lesson 1.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\geekBrains\Introduction to C# Lesson1\obj\Debug\Lesson 1.exe
+C:\Users\ПК\Desktop\geekBrains\Introduction to C# Lesson1\obj\Debug\Lesson 1.pdb
