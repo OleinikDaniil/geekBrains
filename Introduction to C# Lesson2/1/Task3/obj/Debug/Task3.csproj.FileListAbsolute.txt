@@ -1,0 +1,7 @@
+C:\Users\ПК\Desktop\geekBrains\Introduction to C# Lesson2\1\Task3\bin\Debug\Task3.exe.config
+C:\Users\ПК\Desktop\geekBrains\Introduction to C# Lesson2\1\Task3\bin\Debug\Task3.exe
+C:\Users\ПК\Desktop\geekBrains\Introduction to C# Lesson2\1\Task3\bin\Debug\Task3.pdb
+C:\Users\ПК\Desktop\geekBrains\Introduction to C# Lesson2\1\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\geekBrains\Introduction to C# Lesson2\1\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\geekBrains\Introduction to C# Lesson2\1\Task3\obj\Debug\Task3.exe
+C:\Users\ПК\Desktop\geekBrains\Introduction to C# Lesson2\1\Task3\obj\Debug\Task3.pdb
