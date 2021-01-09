@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfToDo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ToDo>
+    <Title>Протереть пыль</Title>
+    <IsDone>false</IsDone>
+  </ToDo>
+  <ToDo>
+    <Title>Подмести пол</Title>
+    <IsDone>false</IsDone>
+  </ToDo>
+  <ToDo>
+    <Title>Загуглить решение задач</Title>
+    <IsDone>false</IsDone>
+  </ToDo>
+</ArrayOfToDo>
