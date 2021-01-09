@@ -20,7 +20,7 @@ namespace Task1
             }
             else 
             { 
-                Console.WriteLine($"{greeting}!"); 
+                Console.WriteLine($"{greeting} !"); 
             }
             if (string.IsNullOrEmpty(Properties.Settings.Default.name))
             {
