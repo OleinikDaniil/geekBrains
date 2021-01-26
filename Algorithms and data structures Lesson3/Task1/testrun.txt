@@ -1,0 +1,6 @@
+|           Method |     Mean |     Error |    StdDev |
+|----------------- |---------:|----------:|----------:|
+|        testClass | 6.900 ns | 0.1374 ns | 0.1411 ns |
+|  testStructFloat | 3.536 ns | 0.1011 ns | 0.0946 ns |
+| testStructDouble | 3.893 ns | 0.0729 ns | 0.0647 ns |
+| testStructNoSqrt | 3.113 ns | 0.0970 ns | 0.0907 ns |
