@@ -1,0 +1,4 @@
+|      Method |     Mean |     Error |    StdDev |
+|------------ |---------:|----------:|----------:|
+|  SearchHash | 7.735 ms | 0.0732 ms | 0.0649 ms |
+| testMassive | 1.762 ms | 0.0158 ms | 0.0140 ms |
